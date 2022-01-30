@@ -2,16 +2,16 @@
 
 ***Módulos:***
 
-- [ ] Bem-vindo + Recados Importantes.
-- [ ] Preparação.
-- [ ] Introdução à Arquitetura Mobile.
-- [ ] Arquitetura da Web ao Mobile.
-- [ ] Desacoplamento inteligente no Android.
-- [ ] Indo Além com AAC.
-- [ ] Arquitetura Mobile Moderna e Robusta.
-- [ ] Bônus — Dominando a Linguagen Kotlin.
-- [ ] Bônus — Produtividade no Android Studio.
-- [ ] Bônus — Do Júnior ao Desenvolvedor Sênior.
+<!-- - [ ] Bem-vindo + Recados Importantes. -->
+<!-- - [ ] Preparação. -->
+<!-- - [ ] Introdução à Arquitetura Mobile. -->
+<!-- - [ ] Arquitetura da Web ao Mobile. -->
+<!-- - [ ] Desacoplamento inteligente no Android. -->
+<!-- - [ ] Indo Além com AAC. -->
+<!-- - [ ] Arquitetura Mobile Moderna e Robusta. -->
+<!-- - [ ] Bônus — Dominando a Linguagen Kotlin. -->
+<!-- - [ ] Bônus — Produtividade no Android Studio. -->
+<!-- - [ ] Bônus — Do Júnior ao Desenvolvedor Sênior. -->
 
 ## INFORMAÇÕES
 
