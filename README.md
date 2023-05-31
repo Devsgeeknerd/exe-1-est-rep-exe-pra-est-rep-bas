@@ -10,6 +10,7 @@ Dica:
 * Resolva o problema duas vezes, uma usando `for` e outra usando `while`.
 
 [Solução `for`.](main_for.c)
+&nbsp;
 [Solução `while`.](main_while.c)
 
 <!-- Informações -->
