@@ -9,8 +9,8 @@ Dica:
 
 * Resolva o problema duas vezes, uma usando `for` e outra usando `while`.
 
-[Solução `for`.](main.c)
-[Solução `while`.](main1.c)
+[Solução `for`.](main_for.c)
+[Solução `while`.](main_while.c)
 
 <!-- Informações -->
 ## &#8505; Informações
