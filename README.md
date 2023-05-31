@@ -1,66 +1,30 @@
-<!-- TITLE -->
-# Curso de Android Arch
+<!-- Título -->
+# Exercício 1 — Estrutura de Repetição
 
-***Conteúdo do Curso:***
+***Conteúdo do Exercício:***
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+Crie um programa que `imprima 11 vezes` a frase `TreinaWeb!`.
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Construído com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recuso úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Dica:
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+* Resolva o problema duas vezes, uma usando `for` e outra usando `while`.
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+[Solução `for`.](main.c)
+[Solução `while`.](main1.c)
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-and-arc&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-1-est-rep-exe-pra-est-rep-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-and-arc?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-and-arc?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cur-and-arc?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cur-and-arc?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cur-and-arc?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
