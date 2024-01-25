@@ -9,10 +9,18 @@ Dica:
 
 * Resolva o problema duas vezes, uma usando `for` e outra usando `while`.
 
-[Solução `for`.](main_for.c)
-&nbsp;
-[Solução `while`.](main_while.c)
+1. [Solução `for`.](main_for.c)
+2. [Solução `while`.](main_while.c)
 
+> [!IMPORTANT]\
+> **Boas Práticas e Sugestões de Melhoria**:
+>
+> * Tipo de Retorno da Função Principal:
+>   * Mude `void main()` para `int main()` e adicione `return 0;` no final para indicar um término bem-sucedido.
+> * Declaração de Variáveis:
+>   * Declare variáveis no início do escopo da função.
+> * Comentários Descritivos:
+>   * Use comentários para explicar o propósito de seções mais complexas ou partes críticas do código.
 <!-- Informações -->
 ## &#8505; Informações
 
