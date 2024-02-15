@@ -21,6 +21,7 @@ Dica:
 >   * Declare variáveis no início do escopo da função.
 > * Comentários Descritivos:
 >   * Use comentários para explicar o propósito de seções mais complexas ou partes críticas do código.
+
 <!-- Informações -->
 ## &#8505; Informações
 
